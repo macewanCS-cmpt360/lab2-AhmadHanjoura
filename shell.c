@@ -1,3 +1,9 @@
+	/* Ahmad Hanjoura
+	 * CMPT 360
+	 * Lab 2
+	 * shell.c
+	 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

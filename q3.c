@@ -1,3 +1,9 @@
+	/* Ahmad Hanjoura
+	 * CMPT 360
+	 * Lab 2
+	 * q3.c
+	 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

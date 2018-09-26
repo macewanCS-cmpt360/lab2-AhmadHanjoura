@@ -1,7 +1,7 @@
 	/* Ahmad Hanjoura
 	 * CMPT 360
 	 * Lab 2
-	 * shell.c
+	 * q2.c
 	 */
 
 #include <stdio.h>

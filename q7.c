@@ -1,7 +1,7 @@
 	/* Ahmad Hanjoura
 	 * CMPT 360
 	 * Lab 2
-	 * shell.c
+	 * q7.c
 	 */
 
 #include <stdio.h>
@@ -26,7 +26,7 @@ int main(void)
 		close(STDOUT_FILENO);
 		printf("This comes after the close()");
 	} else {		// parent process
-		printf("Goodbye");
+
 	}
 	return 0;
 }
